@@ -4,7 +4,7 @@ from textblob import TextBlob
 import pandas as pd
 
 # Set up your NewsAPI key
-API_KEY = "fb9d74dc3ef14050b8a6be2148b10f2b"
+API_KEY = "23ef8dd0a89c458ba36a3e1929b466d2"
 
 # Function to fetch news from NewsAPI
 def fetch_news(query):
